@@ -89,6 +89,6 @@ public class BrowserManager extends BasePage // create browser manager class inh
 
     public void closeBrowser()//create method for close browser
     {
-        //driver.close();
+        driver.close();
     }
 }
